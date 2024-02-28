@@ -15,7 +15,7 @@ const UserForm = ({ data, updateFieldHandler}) => {
       </div>
 
       <div className="form-control">
-        <label htmlFor="email">Nome:</label>
+        <label htmlFor="email">Email:</label>
         <input 
         type="email" 
         name="email" 
